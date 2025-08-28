@@ -140,7 +140,7 @@
 
   #button2 {
     position: relative;
-    height: 10%;
+    height: 14%;
     width: 15%;
     aspect-ratio: 175 / 44;
     display: inline-flex;
@@ -211,4 +211,5 @@
     h1 {
       font-size: calc(var(--font-size-large) - 0.25rem);
     }
+
   }
