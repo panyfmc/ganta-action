@@ -116,6 +116,7 @@
   #button1 {
     position: relative;
     height: 16%;
+    width: 50%;
     aspect-ratio: 175 / 44;
     display: inline-flex;
     justify-content: center;
@@ -141,7 +142,7 @@
   #button2 {
     position: relative;
     height: 16%;
-    width: 16%;
+    width: 50%;
     aspect-ratio: 175 / 44;
     display: inline-flex;
     justify-content: center;
@@ -213,4 +214,5 @@
     }
 
   }
+
 
